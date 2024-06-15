@@ -128,3 +128,5 @@ pdm.lock
 .task/
 
 .testmondata*
+
+prof/
